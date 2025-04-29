@@ -1,34 +1,52 @@
-# Hello! I'm Peniel Ansah 👋  
-🎓 Computer Science Student | 💡 Tech for Healthcare Advocate | 🌍 Passionate About Impact in Africa
+# 👋 Hi there! I'm Peniel Ansah
+
+🎓 Computer Science Student @ Ashesi University  
+💡 Passionate about AI for Healthcare & Social Impact  
+🌍 Driven to innovate for communities across Ghana & Africa
 
 ---
 
-## 🚀 About Me  
-👩‍💻 I'm a Computer Science student passionate about using technology to transform healthcare in Ghana and across Africa.  
-🤖 Currently exploring how AI and machine learning can support health diagnosis and early detection.  
-📱 Building web apps that improve health tracking and user access to wellness tools.  
-🧠 Love working on research that blends data, innovation, and community health needs.  
-🌱 Actively developing my skills in full-stack development, machine learning, and data science.
+## 💫 About Me
+
+🔬 I'm focused on using Machine Learning and Software Engineering to solve real healthcare challenges in Africa.  
+💻 I’ve worked on health-related apps, predictive ML models, and led projects focused on disease detection and awareness.  
+🎯 I’m currently exploring full-stack development and smart health systems that integrate data, IoT, and user-centered design.  
+🧠 I enjoy tackling problems that require both **technical depth** and **social awareness**.  
+🤝 I’m open to collaborating on digital health projects to make a positive impact.  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks/Tools:** React, Node.js  
-- **ML & Data:** Machine Learning, Data Science, Statistics  
-- **Other:**  Research, Data Analysis
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 ---
 
-## 📊 GitHub Stats  
-![Peniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iipenaky&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iipenaky&layout=compact)
+## 📊 GitHub Stats
+
+![Peniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iipenaky&show_icons=true&theme=calm)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iipenaky&layout=compact&theme=calm)
 
 ---
 
-## 🌍 Let's Connect!  
-[📧 Email](mailto:Pennyansah@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/peniel-ansah-585662182/) | [💻 GitHub](https://github.com/iipenaky)
+## 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/peniel-ansah-585662182/)  
+📧 Email: [Pennyansah@gmail.com](mailto:Pennyansah@gmail.com)  
 
 ---
 
-_"I believe technology has the power to improve lives, especially where resources are limited. I'm committed to building solutions that create real impact."_ 💙
+> _“I believe technology can transform lives. I’m here to build what matters, for people who need it most.”_
+
