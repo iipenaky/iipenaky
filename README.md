@@ -16,7 +16,7 @@
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks/Tools:** React, Node.js  
 - **ML & Data:** Machine Learning, Data Science, Statistics  
-- **Other:** Public Speaking, Research, Data Analysis
+- **Other:**  Research, Data Analysis
 
 ---
 
@@ -31,4 +31,4 @@
 
 ---
 
-_"I believe technology has the power to improve lives — especially where resources are limited. I'm committed to building solutions that create real impact."_ 💙
+_"I believe technology has the power to improve lives, especially where resources are limited. I'm committed to building solutions that create real impact."_ 💙
